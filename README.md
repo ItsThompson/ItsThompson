@@ -1,4 +1,4 @@
-### Hi, I'm Thompson👋
+# Hi, I'm Thompson👋
 
 I'm a High school student studying in Singapore.
 
