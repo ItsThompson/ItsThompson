@@ -4,5 +4,5 @@
 
 ## I'm a High school student studying in Singapore.
 
--   🔭 I’m currently working on [![Timepulse]](https://github.com/itsthompson/timepulse)
--   📫 You can reach me on [![Twitter]](https://twitter.com/oithompson) and Discord (Its_Thompson#7442)
+-   🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse)
+-   📫 You can reach me on [Twitter](https://twitter.com/oithompson) and Discord (Its_Thompson#7442)
