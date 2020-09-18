@@ -4,7 +4,7 @@ I'm a High school student studying in Singapore.
 
 <!-- ###Completed Projects: -->
 
-### In Progress:
+### 🚧 In Progress:
 
 -   🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse)
 
