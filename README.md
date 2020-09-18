@@ -2,11 +2,13 @@
 
 I'm a High school student studying in Singapore.
 
+<!-- ###Completed Projects: -->
+
 ### In Progress:
 
 -   🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse)
 
-### Connect with me 🌎
+### 🌎 Connect with me:
 
 <a href="https://github.com/ItsThompson"><img align="left" width="150" height="150" src="https://github.com/ItsThompson/ItsThompson/blob/master/Profile%20Picture%20GIF.gif" class="rounded-circle"></a>
 
