@@ -1,8 +1,3 @@
-<link
-            href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-            rel="stylesheet"
-        />
-
 ### Hi there👋
 
 ### I'm a High school student studying in Singapore.
