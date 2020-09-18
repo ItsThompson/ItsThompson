@@ -1,12 +1,10 @@
 ### Hi there👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/OiThompson?style=for-the-badge)](https://twitter.com/OiThompson)
-
-## I'm a High school student studying in Singapore.
+### I'm a High school student studying in Singapore.
 
 ### In Progress:
 
-🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse)
+-   🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse)
 
 ### Connect with me:
 
