@@ -1,6 +1,6 @@
 ### Hi there👋
 
-### I'm a High school student studying in Singapore.
+I'm a High school student studying in Singapore.
 
 ### In Progress:
 
