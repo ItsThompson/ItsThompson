@@ -6,7 +6,7 @@ I'm a High school student studying in Singapore.
 
 ### 🚧 In Progress:
 
--   🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse) and a [mobile app](https://github.com/ItsThompson/Blue-Dragon-Assist-App)
+-   🔭 I’m currently working on [Timepulse](https://github.com/itsthompson/timepulse) and a [Blue Dragon's Assist App](https://github.com/ItsThompson/Blue-Dragon-Assist-App)
 
 ### 🌎 Connect with me:
 
