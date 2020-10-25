@@ -6,7 +6,7 @@
 
 ### 🚧 In Progress:
 
--   🔭 I’m currently working on [Thought](https://github.com/itsthompson/thought) and a [Blue Dragon's Assist App](https://github.com/ItsThompson/Blue-Dragon-Assist-App)
+-   🔭 I’m currently working on [Thought](https://github.com/itsthompson/thought), a [Discord bot called Dragon](https://github.com/ItsThompson/dragon) and a [Blue Dragon's Assist App](https://github.com/ItsThompson/Blue-Dragon-Assist-App)
 
 
 ### 🌎 Connect with me:
