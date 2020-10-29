@@ -43,8 +43,6 @@
 [](https://www.heroku.com/)[<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />](https://www.heroku.com/)
 
 [](https://www.postgresql.org/)[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
-
-[](https://code.visualstudio.com/)[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 <br>
 <br>
 
