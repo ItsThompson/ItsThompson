@@ -2,9 +2,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ItsThompson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/OiThompson)
 
 ### 🏁 Completed Projects:
--   [🕒 Timepulse](https://github.com/itsthompson/timepulse)
--   [🐉 Dragon](https://github.com/ItsThompson/dragon)
--   [💭 Thought](https://github.com/itsthompson/thought)
+-   [🕒 Timepulse](https://github.com/itsthompson/timepulse): A CS50 final project for making timetables.
+-   [🐉 Dragon](https://github.com/ItsThompson/dragon): A custom discord bot with psql backend using discord.js.
+-   [💭 Thought](https://github.com/itsthompson/thought): A MEAN stack social media for people to share their thoughts.
 
 ### 🚧 In Progress:
 
