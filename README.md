@@ -34,7 +34,17 @@
 
 [](https://www.mongodb.com/)[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics//mongodb/mongodb.png" />](https://www.mongodb.com/)
 
-[](https://getbootstrap.com/)[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com/)
+[](https://getbootstrap.com/)[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com/)
+
+[](https://unity.com/)[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/unity/unity.png" />](https://unity.com/)
+
+[](https://flask.palletsprojects.com/)[<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />](https://flask.palletsprojects.com/)
+
+[](https://www.heroku.com/)[<img align="left" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png" />](https://www.heroku.com/)
+
+[](https://www.postgresql.org/)[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
+
+[](https://code.visualstudio.com/)[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 <br>
 <br>
 
