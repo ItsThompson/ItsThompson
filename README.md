@@ -3,7 +3,7 @@
 
 ### 🏁 Completed Projects:
 -   [🕒 Timepulse](https://github.com/itsthompson/timepulse): A CS50 final project for making timetables.
--   [🐉 Dragon](https://github.com/ItsThompson/dragon): A custom discord bot with psql backend using discord.js.
+-   [🐉 Dragon](https://github.com/ItsThompson/dragon): A custom discord bot with PostgreSQL backend using discord.js.
 -   [💭 Thought](https://github.com/itsthompson/thought): A MEAN stack social media for people to share their thoughts.
 
 ### 🚧 In Progress:
