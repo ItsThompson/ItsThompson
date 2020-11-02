@@ -12,7 +12,7 @@
 
 
 ### 🌎 Connect with me:
-[](https://www.youtube.com/channel/uclekptq5i2yugm9u2tgp4xw)[<img align="left" alt="Its_Thompson | YouTube" width="26px" style="padding:0.2rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/uclekptq5i2yugm9u2tgp4xw)
+[](https://www.youtube.com/channel/UClekptq5i2YUgm9u2TGp4Xw)[<img align="left" alt="Its_Thompson | YouTube" width="26px" style="padding:0.2rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UClekptq5i2YUgm9u2TGp4Xw)
 [](https://twitter.com/oithompson)[<img align="left" alt="OiThompson | Twitter" width="26px" style="padding:0.2rem" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/oithompson)
 [](https://github.com/itsthompson)[<img align="left" alt="GitHub" width="26px" style="padding:0.2rem" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/itsthompson)
 
