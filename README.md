@@ -8,7 +8,7 @@
 
 ### 🚧 In Progress:
 
--   🔭 I’m currently working on the [Blue Dragon's Assist App](https://github.com/ItsThompson/Blue-Dragon-Assist-App)
+-   🔭 I’m currently working on the [Blue Dragon's Assist App](https://github.com/ItsThompson/Blue-Dragon-Assist-App) & [Portfolio](https://github.com/ItsThompson/portfolio)
 
 
 ### 🌎 Connect with me:
