@@ -12,8 +12,8 @@
 
 ### 🌎 Connect with me:
 [](https://www.youtube.com/channel/UClekptq5i2YUgm9u2TGp4Xw)[Youtube](https://www.youtube.com/channel/UClekptq5i2YUgm9u2TGp4Xw)
-
 [](https://github.com/itsthompson)[Github](https://github.com/itsthompson)
+[Blog](https://itsthompson.github.io/)
 
 <br>
 <br>
