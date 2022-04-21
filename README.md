@@ -1,5 +1,7 @@
 # Hi, I'm Thompson👋
 
+I am a Grade 11 student currently studying at UWCSEA.
+
 ### 🛠️ Languages and Tools:
 <!-- VSCODE -->
 [](https://code.visualstudio.com/)[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
