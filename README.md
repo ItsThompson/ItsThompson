@@ -1,23 +1,5 @@
 # Hi, I'm Thompson👋
 
-### 🏁 Completed Projects:
--   [🕒 Timepulse](https://github.com/itsthompson/timepulse): A CS50 final project for making timetables.
--   [🐉 Dragon](https://github.com/ItsThompson/dragon): A custom discord bot with PostgreSQL backend using discord.js.
--   [💭 Thought](https://github.com/itsthompson/thought): A MEAN stack social media for people to share their thoughts.
-
-### 🚧 In Progress:
-
--   🔭 I’m currently working on the [Blue Dragon's Assist App](https://github.com/ItsThompson/Blue-Dragon-Assist-App) & [Portfolio](https://github.com/ItsThompson/portfolio)
-
-
-### 🌎 Connect with me:
-[](https://www.youtube.com/channel/UClekptq5i2YUgm9u2TGp4Xw)[Youtube](https://www.youtube.com/channel/UClekptq5i2YUgm9u2TGp4Xw)
-[](https://github.com/itsthompson)[Github](https://github.com/itsthompson)
-[Blog](https://itsthompson.github.io/)
-
-<br>
-<br>
-
 ### 🛠️ Languages and Tools:
 <!-- VSCODE -->
 [](https://code.visualstudio.com/)[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
