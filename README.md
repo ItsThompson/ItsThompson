@@ -1,7 +1,7 @@
 # Hi, I'm Thompson👋
 
 **About Me**
-- First year student at the University of Bath
+- First year student at the University of Bath 🛁
 - Favorite Language: Rust 💪
 - Availability: Open to interships 🙂 (Please 🙏)
 
