@@ -1,3 +1,2 @@
-- current intern @ amzn
-- 3rd year cs + ai @ bath
+- final year cs + ai @ bath
 - https://t-industri.es/
