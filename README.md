@@ -1,5 +1,5 @@
 - final year cs + ai @ bath
-- https://t-industri.es/
+- https://thompsontong.com/
 
 
 Check out:
